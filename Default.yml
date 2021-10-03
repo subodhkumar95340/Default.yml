@@ -23,4 +23,7 @@ spec:
      - name: firstcontainet
 #       image: coolgourav147/nginx-custom
        image: nginx
-
+     
+     
+     
+     
